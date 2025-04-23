@@ -42,11 +42,11 @@ The final model achieved 76% overall accuracy. It performed especially well for 
 
 - ### Clone this repository:
   ```bash
-  git clone https://github.com/ankheat/Healthcare-Predictive-modelling.git
+  git clone [https://github.com/Bhuvi1901/ChurnAnalysis](https://github.com/Bhuvi1901/ChurnAnalysis)
   ```
 - ### Navigate to the project folder:
   ```bash
-  cd Healthcare-Predictive-modelling
+  cd ChurnAnalysis
   ```
 - ### Install dependencies:
   ```bash

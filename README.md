@@ -24,6 +24,17 @@ This project analyzes customer churn behavior for a subscription-based streaming
 - Evaluation metrics like accuracy, precision, recall, F1-score, and confusion matrix were computed.
 - XGBoost performed best with hyperparameter tuning and cross-validation applied for optimization.
 
+### 5. Data Visualization
+- Developed an interactive [Power BI dashboard](https://github.com/user-attachments/assets/2eda4446-cf2c-4294-ac6a-e71b0167e585) to highlight:
+    - Key customer metrics including total revenue, churn rate, and lost revenue
+    - Customer segmentation by subscription type, payment method, and genre preference (Active vs. Churned)
+    - Churn behavior trends using visual analysis of support tickets, watchlist activity, and monthly revenue distribution
+
+      ![image](https://github.com/user-attachments/assets/2eda4446-cf2c-4294-ac6a-e71b0167e585)
+
+
+
+
 ## Technologies Used
 
 - Python

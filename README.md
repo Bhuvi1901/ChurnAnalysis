@@ -47,7 +47,8 @@ This project analyzes customer churn behavior for a subscription-based streaming
 
 ## Output
 
-The final model achieved 76% overall accuracy. It performed especially well for retained customers with 91% precision, and identified churners with 65% recall, offering a useful foundation for retention strategies.
+- The XGBoost model with SMOTE and Grid Search achieved an overall accuracy of 76% at a threshold of 0.164. 
+- While the model performs well in identifying the majority class (precision: 0.91), its performance on the minority class is moderate (recall: 0.65, f1-score: 0.49), highlighting a trade-off between precision and recall for rare events.
 
 ## How to Use
 
